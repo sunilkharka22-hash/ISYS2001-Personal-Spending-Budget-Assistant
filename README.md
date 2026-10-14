@@ -70,7 +70,8 @@ The budget health is classified as Healthy.
 
 The main project is provided as a Google Colab notebook:
 
-`ISYS2001_Assessment_2_Finance_Assistant.ipynb`
+`ISYS2001_Assessment_2_Finance_Assistant (1).ipynb`
+
 
 Open the notebook in Google Colab and run the cells from top to bottom.
 
@@ -99,6 +100,6 @@ The project uses estimated personal monthly spending data for demonstration and 
 
 ## Repository Contents
 
-- `ISYS2001_Assessment_2_Finance_Assistant.ipynb` – main project notebook.
+- `ISYS2001_Assessment_2_Finance_Assistant (1).ipynb` – main project notebook.
 - `Developer_Diary.md` – development diary documenting the development process and AI collaboration.
 - `README.md` – project description and instructions.
